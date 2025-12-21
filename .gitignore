@@ -15,3 +15,6 @@ build/
 # IDE settings
 .vscode/
 .idea/
+
+#Files
+PYTHON_SETUP_GUIDE.md
