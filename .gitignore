@@ -1,0 +1,17 @@
+# Virtual Environment
+spark-env/
+env/
+.env
+
+# Python compilation cache
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
