@@ -18,3 +18,7 @@ build/
 
 #Files
 PYTHON_SETUP_GUIDE.md
+
+#jupyter files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
